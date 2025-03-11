@@ -13,7 +13,7 @@ Atividade cujo objetivo é a criação de servidor com um endpoint o qual recebe
   ```
 - Inicie o servidor por meio do comando:
   ```node
-    node main.js
+    node trabalhoPratico.js
   ```
 - Acesse a rota /login por meio de um método post enviando username e senha
 
